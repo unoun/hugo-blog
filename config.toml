@@ -1,0 +1,15 @@
+baseurl = "http://unoun.github.io/"
+languageCode = "ja"
+title = "Personal Log"
+
+[permalinks]
+    post = "/:year/:month/:slug/"
+    page = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[params]
+    keywords =[]
+    description = ""
