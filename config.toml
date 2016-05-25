@@ -1,6 +1,7 @@
 baseurl = "http://unoun.github.io/"
 languageCode = "ja"
 title = "Personal Log"
+theme = "hugo-phlat-theme"
 
 [permalinks]
     post = "/:year/:month/:slug/"
@@ -13,3 +14,4 @@ title = "Personal Log"
 [params]
     keywords =[]
     description = ""
+    google_analytics = "UA-27837645-2"
