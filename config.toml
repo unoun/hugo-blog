@@ -1,4 +1,4 @@
-baseurl = "http://unoun.github.io/"
+baseurl = "https://unoun.github.io/"
 languageCode = "ja"
 title = "Personal Log"
 theme = "hugo-phlat-theme"
