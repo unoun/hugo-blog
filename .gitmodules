@@ -3,4 +3,4 @@
 	url = https://github.com/unoun/unoun.github.io.git
 [submodule "themes/hugo-phlat-theme"]
 	path = themes/hugo-phlat-theme
-	url = https://github.com/nraboy/hugo-phlat-theme.git
+	url = https://github.com/unoun/hugo-phlat-theme.git
