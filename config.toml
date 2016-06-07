@@ -2,6 +2,7 @@ baseurl = "https://unoun.github.io/"
 languageCode = "ja"
 title = "Personal Log"
 theme = "hugo-phlat-theme"
+hasCJKLanguage = true
 
 [permalinks]
     post = "/:year/:month/:slug/"
